@@ -2,6 +2,8 @@
 
 Modified from [CF Color Theme](https://github.com/go-zen-chu/plantuml_cf_theme)
 
+![](theme.svg)
+
 # How to use
 
 ## Vscode

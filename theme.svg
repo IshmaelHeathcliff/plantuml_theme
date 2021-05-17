@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="353px" preserveAspectRatio="none" style="width:534px;height:353px;background:#272B34;" version="1.1" viewBox="0 0 534 353" width="534px" zoomAndPan="magnify"><defs/><g><rect fill="none" height="351.0459" style="stroke:#2D74BA;stroke-width:1.0;" width="532.5" x="0" y="0"/><!--MD5=[b4fa10df80476353258f72a232547d63]
+class AbstractList--><rect codeLine="2" fill="#272B34" height="48" id="AbstractList" style="stroke:#2D74BA;stroke-width:1.5;" width="96" x="174" y="160"/><ellipse cx="189" cy="176" fill="#39BD65" rx="11" ry="11" style="stroke:#2D74BA;stroke-width:1.0;"/><path d="M189.375,175.9844 L187.3906,175.9844 L186.7969,178.5 Q186.7344,178.8438 186.7344,179.0313 Q186.7344,179.2969 186.8281,179.5625 Q186.9219,179.8281 186.9219,179.8281 L187.5938,179.8281 L187.5938,180.2344 L184.1406,180.2344 L184.1406,179.8281 L184.3281,179.8281 Q184.5938,179.8281 184.7969,179.6641 Q185,179.5 185.0625,179.1094 L187.6563,168.9375 L189.5313,168.3281 L192.1719,179.1094 Q192.3125,179.5 192.5078,179.6641 Q192.7031,179.8281 192.7031,179.8281 L193.1719,179.8281 L193.1719,180.2344 L189.3125,180.2344 L189.3125,179.8281 L189.5781,179.8281 Q189.9844,179.8281 190.0469,179.6641 Q190.1094,179.5 190.1094,179.375 Q190.1094,179.1094 190.0469,178.9063 L189.375,175.9844 Z M187.9844,170.0781 L187.9844,170.0781 L187.5313,175.5781 L189.3125,175.5781 L187.9844,170.0781 Z " fill="#DCDDDE"/><text fill="#DCDDDE" font-family="Sarasa Term SC" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="64" x="203" y="181.5576">AbstractList</text><line style="stroke:#2D74BA;stroke-width:1.5;" x1="175" x2="269" y1="192" y2="192"/><line style="stroke:#2D74BA;stroke-width:1.5;" x1="175" x2="269" y1="200" y2="200"/><!--MD5=[8e34b16d8d8f96f4a11290cd523ed859]
+class AbstractCollection--><rect codeLine="3" fill="#272B34" height="48" id="AbstractCollection" style="stroke:#2D74BA;stroke-width:1.5;" width="132" x="7" y="160"/><ellipse cx="22" cy="176" fill="#39BD65" rx="11" ry="11" style="stroke:#2D74BA;stroke-width:1.0;"/><path d="M22.375,175.9844 L20.3906,175.9844 L19.7969,178.5 Q19.7344,178.8438 19.7344,179.0313 Q19.7344,179.2969 19.8281,179.5625 Q19.9219,179.8281 19.9219,179.8281 L20.5938,179.8281 L20.5938,180.2344 L17.1406,180.2344 L17.1406,179.8281 L17.3281,179.8281 Q17.5938,179.8281 17.7969,179.6641 Q18,179.5 18.0625,179.1094 L20.6563,168.9375 L22.5313,168.3281 L25.1719,179.1094 Q25.3125,179.5 25.5078,179.6641 Q25.7031,179.8281 25.7031,179.8281 L26.1719,179.8281 L26.1719,180.2344 L22.3125,180.2344 L22.3125,179.8281 L22.5781,179.8281 Q22.9844,179.8281 23.0469,179.6641 Q23.1094,179.5 23.1094,179.375 Q23.1094,179.1094 23.0469,178.9063 L22.375,175.9844 Z M20.9844,170.0781 L20.9844,170.0781 L20.5313,175.5781 L22.3125,175.5781 L20.9844,170.0781 Z " fill="#DCDDDE"/><text fill="#DCDDDE" font-family="Sarasa Term SC" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="100" x="36" y="181.5576">AbstractCollection</text><line style="stroke:#2D74BA;stroke-width:1.5;" x1="8" x2="138" y1="192" y2="192"/><line style="stroke:#2D74BA;stroke-width:1.5;" x1="8" x2="138" y1="200" y2="200"/><!--MD5=[3d4177ac58b4411586d067f34e84928f]
+class List--><rect codeLine="4" fill="#272B34" height="48" id="List" style="stroke:#2D74BA;stroke-width:1.5;" width="51" x="184.5" y="29.5"/><ellipse cx="199.5" cy="45.5" fill="#9079E5" rx="11" ry="11" style="stroke:#2D74BA;stroke-width:1.0;"/><path d="M196.0938,39.7813 L196.0938,39.375 L202.4063,39.375 L202.4063,39.7813 L199.875,39.7813 Q199.875,39.7813 200.0234,39.9141 Q200.1719,40.0469 200.1719,40.3125 L200.1719,49.7969 Q200.1719,50.0625 200.3906,50.1953 Q200.6094,50.3281 200.6094,50.3281 L202.4063,50.3281 L202.4063,50.7344 L196.0938,50.7344 L196.0938,50.3281 L197.625,50.3281 Q197.9531,50.3281 198.0859,50.1953 Q198.2188,50.0625 198.2188,49.7969 L198.2188,40.3125 Q198.2188,40.0469 198.0859,39.9141 Q197.9531,39.7813 197.625,39.7813 L196.0938,39.7813 Z " fill="#DCDDDE"/><text fill="#DCDDDE" font-family="Sarasa Term SC" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="19" x="213.5" y="51.0576">List</text><line style="stroke:#2D74BA;stroke-width:1.5;" x1="185.5" x2="234.5" y1="61.5" y2="61.5"/><line style="stroke:#2D74BA;stroke-width:1.5;" x1="185.5" x2="234.5" y1="69.5" y2="69.5"/><!--MD5=[c160724f8e3bb89ca8141a12554ac2e3]
+class Collection--><rect codeLine="5" fill="#272B34" height="48" id="Collection" style="stroke:#2D74BA;stroke-width:1.5;" width="87" x="51.5" y="29.5"/><ellipse cx="66.5" cy="45.5" fill="#9079E5" rx="11" ry="11" style="stroke:#2D74BA;stroke-width:1.0;"/><path d="M63.0938,39.7813 L63.0938,39.375 L69.4063,39.375 L69.4063,39.7813 L66.875,39.7813 Q66.875,39.7813 67.0234,39.9141 Q67.1719,40.0469 67.1719,40.3125 L67.1719,49.7969 Q67.1719,50.0625 67.3906,50.1953 Q67.6094,50.3281 67.6094,50.3281 L69.4063,50.3281 L69.4063,50.7344 L63.0938,50.7344 L63.0938,50.3281 L64.625,50.3281 Q64.9531,50.3281 65.0859,50.1953 Q65.2188,50.0625 65.2188,49.7969 L65.2188,40.3125 Q65.2188,40.0469 65.0859,39.9141 Q64.9531,39.7813 64.625,39.7813 L63.0938,39.7813 Z " fill="#DCDDDE"/><text fill="#DCDDDE" font-family="Sarasa Term SC" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="55" x="80.5" y="51.0576">Collection</text><line style="stroke:#2D74BA;stroke-width:1.5;" x1="52.5" x2="137.5" y1="61.5" y2="61.5"/><line style="stroke:#2D74BA;stroke-width:1.5;" x1="52.5" x2="137.5" y1="69.5" y2="69.5"/><!--MD5=[ab8871ed637f40707b866ba6597734bc]
+class ArrayList--><rect codeLine="14" fill="#272B34" height="78.0459" id="ArrayList" style="stroke:#2D74BA;stroke-width:1.5;" width="111" x="166.5" y="268"/><ellipse cx="195.9" cy="284" fill="#3E8DE7" rx="11" ry="11" style="stroke:#2D74BA;stroke-width:1.0;"/><path d="M194.4781,289.3594 Q192.6188,289.3594 191.525,287.9688 Q190.4313,286.5781 190.4313,283.5938 Q190.4313,281.0625 191.5953,279.4063 Q192.7594,277.75 194.7438,277.75 Q196.2125,277.75 196.6813,277.875 Q197.15,278.0781 197.15,278.0781 Q197.15,278.0781 197.15,278.0078 Q197.15,277.9375 197.7594,277.0156 L198.8063,280.6719 L197.4781,281.0781 Q197.0094,279.5313 196.3453,278.8672 Q195.6813,278.2031 194.6188,278.2031 Q194.2281,278.2031 193.4625,279.7344 Q192.6969,281.2656 192.6969,283.5156 Q192.6969,285.9844 193.3609,287.375 Q194.025,288.7656 194.5563,288.7656 Q195.6188,288.7656 196.3766,288 Q197.1344,287.2344 197.4781,285.5781 L198.8063,286.1719 Q198.4781,287.5781 197.5797,288.4688 Q196.6813,289.3594 194.4781,289.3594 Z " fill="#DCDDDE"/><text fill="#DCDDDE" font-family="Sarasa Term SC" font-size="12" lengthAdjust="spacing" textLength="47" x="213.1" y="289.5576">ArrayList</text><line style="stroke:#2D74BA;stroke-width:1.5;" x1="167.5" x2="276.5" y1="300" y2="300"/><text fill="#DCDDDE" font-family="Sarasa Term SC" font-size="11" lengthAdjust="spacing" textLength="99" x="172.5" y="316.606">Object[] elementData</text><line style="stroke:#2D74BA;stroke-width:1.5;" x1="167.5" x2="276.5" y1="323.0229" y2="323.0229"/><text fill="#DCDDDE" font-family="Sarasa Term SC" font-size="11" lengthAdjust="spacing" textLength="28" x="172.5" y="339.6289">size()</text><!--MD5=[15b68e006199004da79ea2a4d117d8e9]
+class TimeUnit--><rect codeLine="19" fill="#272B34" height="93.0688" id="TimeUnit" style="stroke:#2D74BA;stroke-width:1.5;" width="82" x="271" y="7"/><ellipse cx="286" cy="23" fill="#D85F43" rx="11" ry="11" style="stroke:#2D74BA;stroke-width:1.0;"/><path d="M282.5313,17.2813 L282.5313,16.875 L290.0469,16.875 L290.7656,19.1406 L289.5938,19.5938 Q288.9063,18.2656 288.3125,17.7734 Q287.7188,17.2813 286.9844,17.2813 L285.125,17.2813 Q285.125,17.2813 285.2578,17.4141 Q285.3906,17.5469 285.3906,17.8125 L285.3906,21.9219 L286.4531,21.9219 Q287.1094,21.9219 287.4141,21.5938 Q287.7188,21.2656 287.7188,20.5938 L287.7188,20.2031 L289.1094,20.2031 L289.1094,24.1094 L287.7188,24.1094 L287.7188,23.8438 Q287.7188,23.125 287.4141,22.7266 Q287.1094,22.3281 286.4531,22.3281 L285.5313,22.3281 L285.5313,27.2969 Q285.5313,27.5625 285.6953,27.6953 Q285.8594,27.8281 285.8594,27.8281 L286.8438,27.8281 Q287.8438,27.8281 288.5391,27.2656 Q289.2344,26.7031 289.75,25.1875 L290.9688,25.6406 L290.2344,28.2344 L282.4688,28.2344 L282.4688,27.8281 L282.8594,27.8281 Q283.2031,27.8281 283.3359,27.6953 Q283.4688,27.5625 283.4688,27.2969 L283.4688,17.8125 Q283.4688,17.5469 283.3359,17.4141 Q283.2031,17.2813 282.8594,17.2813 L282.5313,17.2813 Z " fill="#DCDDDE"/><text fill="#DCDDDE" font-family="Sarasa Term SC" font-size="12" lengthAdjust="spacing" textLength="50" x="300" y="28.5576">TimeUnit</text><line style="stroke:#2D74BA;stroke-width:1.5;" x1="272" x2="352" y1="39" y2="39"/><text fill="#DCDDDE" font-family="Sarasa Term SC" font-size="11" lengthAdjust="spacing" textLength="30" x="277" y="55.606">DAYS</text><text fill="#DCDDDE" font-family="Sarasa Term SC" font-size="11" lengthAdjust="spacing" textLength="36" x="277" y="70.6289">HOURS</text><text fill="#DCDDDE" font-family="Sarasa Term SC" font-size="11" lengthAdjust="spacing" textLength="43" x="277" y="85.6519">MINUTES</text><line style="stroke:#2D74BA;stroke-width:1.5;" x1="272" x2="352" y1="92.0688" y2="92.0688"/><!--MD5=[0c8287f799745f7b534bf75518604c1e]
+class SuppressWarnings--><rect codeLine="25" fill="#272B34" height="48" id="SuppressWarnings" style="stroke:#2D74BA;stroke-width:1.5;" width="139" x="388.5" y="29.5"/><ellipse cx="403.5" cy="45.5" fill="#272B34" rx="11" ry="11" style="stroke:#2D74BA;stroke-width:1.0;"/><path d="M402.6563,48.7031 Q402.25,48.7031 401.8906,48.1719 Q401.5313,47.6406 401.5313,46.5781 Q401.5313,45.125 402.3281,43.5 Q403.125,41.875 404.1094,41.875 Q405.375,41.875 405.5469,42.0078 Q405.7188,42.1406 405.7188,42.1406 L405.7188,41.7969 L406.6406,41.7969 L406.0469,45.9844 Q405.9844,46.5156 405.9063,46.9219 Q405.8438,47.3125 405.8438,47.5156 Q405.8438,47.7813 405.9453,47.9141 Q406.0469,48.0469 406.0469,48.0469 Q406.0469,48.0469 406.2734,47.1172 Q406.5,46.1875 406.5,44.5938 Q406.5,41.9375 405.6094,41.0703 Q404.7188,40.2031 403.7188,40.2031 Q403.5156,40.2031 402.5547,41.4375 Q401.5938,42.6719 401.5938,45.6563 Q401.5938,48.25 402.3906,49.5391 Q403.1875,50.8281 403.5156,50.8281 Q404.5156,50.8281 405.2813,50.2969 Q406.0469,49.7656 406.7031,48.4375 L408.0313,48.8438 Q407.375,50.1719 406.5078,50.7656 Q405.6406,51.3594 403.5156,51.3594 Q401.7969,51.3594 400.7344,49.7344 Q399.6719,48.1094 399.6719,45.6563 Q399.6719,42.9375 400.8672,41.3438 Q402.0625,39.75 403.7188,39.75 Q406.1094,39.75 407.1094,40.875 Q408.1094,42 408.1094,44.5313 Q408.1094,46.5156 407.4453,47.6094 Q406.7813,48.7031 404.9844,48.7031 Q404.6406,48.7031 404.4141,48.4375 Q404.1875,48.1719 404.1875,48.1719 Q404.1875,48.1719 404.1563,48.4375 Q404.125,48.7031 402.6563,48.7031 Z M403.6563,48.1719 Q403.6563,48.1719 403.8203,47.7109 Q403.9844,47.25 404.1875,46.3125 L404.6406,43.0625 Q404.7188,42.6719 404.5469,42.4688 Q404.375,42.2656 404.1094,42.2656 Q404.1094,42.2656 403.75,43.625 Q403.3906,44.9844 403.3906,47.0469 Q403.3906,47.6406 403.5234,47.9063 Q403.6563,48.1719 403.6563,48.1719 Z " fill="#DCDDDE"/><text fill="#DCDDDE" font-family="Sarasa Term SC" font-size="12" lengthAdjust="spacing" textLength="107" x="417.5" y="51.0576">SuppressWarnings</text><line style="stroke:#2D74BA;stroke-width:1.5;" x1="389.5" x2="526.5" y1="61.5" y2="61.5"/><line style="stroke:#2D74BA;stroke-width:1.5;" x1="389.5" x2="526.5" y1="69.5" y2="69.5"/><!--MD5=[00308d07b6a5721fb0cf5861877e6652]
+reverse link List to AbstractList--><path codeLine="7" d="M214.05,97.82 C215.99,118.6 218.23,142.66 219.84,159.9 " fill="none" id="List-backto-AbstractList" style="stroke:#00B2E2;stroke-width:1.0;"/><polygon fill="none" points="207.06,98.33,212.17,77.77,221,97.03,207.06,98.33" style="stroke:#00B2E2;stroke-width:1.0;"/><!--MD5=[1822909749df1453bdd84de7a60a3406]
+reverse link Collection to AbstractCollection--><path codeLine="8" d="M87.64,97.49 C84.07,118.35 79.92,142.57 76.95,159.9 " fill="none" id="Collection-backto-AbstractCollection" style="stroke:#00B2E2;stroke-width:1.0;"/><polygon fill="none" points="80.74,96.3,91.02,77.77,94.54,98.66,80.74,96.3" style="stroke:#00B2E2;stroke-width:1.0;"/><!--MD5=[0159284274f96a472eb2618ad803aaca]
+reverse link Collection to List--><path codeLine="10" d="M158.59,53.5 C167.17,53.5 175.75,53.5 184.33,53.5 " fill="none" id="Collection-backto-List" style="stroke:#00B2E2;stroke-width:1.0;"/><polygon fill="none" points="158.57,60.5,138.57,53.5,158.57,46.5,158.57,60.5" style="stroke:#00B2E2;stroke-width:1.0;"/><!--MD5=[7a3a52e8f65ef1a8d8d29530ea5cd870]
+reverse link AbstractCollection to AbstractList--><path codeLine="11" d="M159.1,184 C163.98,184 168.85,184 173.73,184 " fill="none" id="AbstractCollection-backto-AbstractList" style="stroke:#00B2E2;stroke-width:1.0;"/><polygon fill="none" points="159.06,191,139.06,184,159.06,177,159.06,191" style="stroke:#00B2E2;stroke-width:1.0;"/><!--MD5=[40e4bb1af59cca28d4643aaff05088cc]
+reverse link AbstractList to ArrayList--><path codeLine="12" d="M222,228.24 C222,241.17 222,255.24 222,267.81 " fill="none" id="AbstractList-backto-ArrayList" style="stroke:#00B2E2;stroke-width:1.0;"/><polygon fill="none" points="215,228.04,222,208.04,229,228.04,215,228.04" style="stroke:#00B2E2;stroke-width:1.0;"/><!--MD5=[87a63a1a6e8209fac39b13300a7f8855]
+@startuml
+!include theme.plantuml
+
+abstract class AbstractList
+abstract AbstractCollection
+interface List
+interface Collection
+
+List <|- - AbstractList
+Collection <|- - AbstractCollection
+
+Collection <|- List
+AbstractCollection <|- AbstractList
+AbstractList <|- - ArrayList
+
+class ArrayList {
+  Object[] elementData
+  size()
+}
+
+enum TimeUnit {
+  DAYS
+  HOURS
+  MINUTES
+}
+
+annotation SuppressWarnings
+
+@enduml
+
+@startuml
+skinparam shadowing false
+skinparam DefaultFontName Sarasa Term SC
+skinparam ArrowColor #00b2e2
+skinparam DefaultFontColor #dcddde
+
+skinparam ActivityBorderColor #2D74BA
+skinparam ActivityDiamondBorderColor #2D74BA
+skinparam ActorBorderColor #2D74BA
+skinparam AgentBorderColor #2D74BA
+skinparam ArtifactBorderColor #2D74BA
+skinparam CardBorderColor #2D74BA
+skinparam ClassBorderColor #2D74BA
+skinparam CloudBorderColor #2D74BA
+skinparam CollectionsBorderColor #2D74BA
+skinparam ComponentBorderColor #2D74BA
+skinparam ControlBorderColor #2D74BA
+skinparam BoundaryBorderColor #2D74BA
+skinparam DatabaseBorderColor #2D74BA
+skinparam DiagramBorderColor #2D74BA
+skinparam EntityBorderColor #2D74BA
+skinparam FileBorderColor #2D74BA
+skinparam FolderBorderColor #2D74BA
+skinparam FrameBorderColor #2D74BA
+skinparam InterfaceBorderColor #2D74BA
+skinparam LegendBorderColor #2D74BA
+skinparam NodeBorderColor #2D74BA
+skinparam NoteBorderColor #2D74BA
+skinparam ObjectBorderColor #2D74BA
+skinparam PackageBorderColor #2D74BA
+skinparam PageBorderColor #2D74BA
+skinparam ParticipantBorderColor #2D74BA
+skinparam PartitionBorderColor #2D74BA
+skinparam QueueBorderColor #2D74BA
+skinparam RectangleBorderColor #2D74BA
+skinparam SequenceBoxBorderColor #2D74BA
+skinparam SequenceDividerBorderColor #2D74BA
+skinparam SequenceGroupBorderColor #2D74BA
+skinparam SequenceLifeLineBorderColor #2D74BA
+skinparam SequenceReferenceBorderColor #2D74BA
+skinparam StackBorderColor #2D74BA
+skinparam StateBorderColor #2D74BA
+skinparam StereotypeABorderColor #2D74BA
+skinparam StereotypeCBorderColor #2D74BA
+skinparam StereotypeEBorderColor #2D74BA
+skinparam StereotypeIBorderColor #2D74BA
+skinparam StereotypeNBorderColor #2D74BA
+skinparam StorageBorderColor #2D74BA
+skinparam SwimlaneBorderColor #2D74BA
+skinparam UsecaseBorderColor #2D74BA
+
+skinparam ActivityBackgroundColor #272b34
+skinparam ActivityDiamondBackgroundColor #272b34
+skinparam ActorBackgroundColor #272b34
+skinparam AgentBackgroundColor #272b34
+skinparam ArtifactBackgroundColor #272b34
+skinparam BackgroundColor #272b34
+skinparam BoundaryBackgroundColor #272b34
+skinparam CardBackgroundColor #272b34
+skinparam ClassBackgroundColor #272b34
+skinparam ClassHeaderBackgroundColor #272b34
+skinparam CloudBackgroundColor #272b34
+skinparam CollectionsBackgroundColor #272b34
+skinparam ComponentBackgroundColor #272b34
+skinparam BoundaryBackgroundColor #272b34
+skinparam ControlBackgroundColor #272b34
+skinparam DatabaseBackgroundColor #272b34
+skinparam EntityBackgroundColor #272b34
+skinparam FileBackgroundColor #272b34
+skinparam FolderBackgroundColor #272b34
+skinparam FrameBackgroundColor #272b34
+skinparam IconPackageBackgroundColor #272b34
+skinparam IconPrivateBackgroundColor #272b34
+skinparam IconProtectedBackgroundColor #272b34
+skinparam IconPublicBackgroundColor #272b34
+skinparam InterfaceBackgroundColor #272b34
+skinparam LegendBackgroundColor #272b34
+skinparam NodeBackgroundColor #272b34
+skinparam NoteBackgroundColor #53aaf5
+skinparam ObjectBackgroundColor #272b34
+skinparam PackageBackgroundColor #272b34
+skinparam ParticipantBackgroundColor #272b34
+skinparam PartitionBackgroundColor #272b34
+skinparam QueueBackgroundColor #272b34
+skinparam RectangleBackgroundColor #272b34
+skinparam SequenceBoxBackgroundColor #272b34
+skinparam SequenceDividerBackgroundColor #272b34
+skinparam SequenceGroupBackgroundColor #272b34
+skinparam SequenceGroupBodyBackgroundColor #272b34
+skinparam SequenceLifeLineBackgroundColor #272b34
+skinparam SequenceReferenceBackgroundColor #272b34
+skinparam SequenceReferenceHeaderBackgroundColor #272b34
+skinparam StackBackgroundColor #272b34
+skinparam StateBackgroundColor #272b34
+skinparam StereotypeABackgroundColor #39BD65
+skinparam StereotypeCBackgroundColor #3e8de7
+skinparam StereotypeEBackgroundColor #D85F43
+skinparam StereotypeIBackgroundColor #9079E5
+skinparam StereotypeNBackgroundColor #272b34
+skinparam StorageBackgroundColor #272b34
+skinparam TitleBackgroundColor #272b34
+skinparam UsecaseBackgroundColor #272b34
+
+skinparam ActivityStartColor #dcddde
+skinparam ActivityEndColor #dcddde
+skinparam StateStartColor #dcddde
+skinparam StateEndColor #dcddde
+
+abstract class AbstractList
+abstract AbstractCollection
+interface List
+interface Collection
+
+List <|- - AbstractList
+Collection <|- - AbstractCollection
+
+Collection <|- List
+AbstractCollection <|- AbstractList
+AbstractList <|- - ArrayList
+
+class ArrayList {
+  Object[] elementData
+  size()
+}
+
+enum TimeUnit {
+  DAYS
+  HOURS
+  MINUTES
+}
+
+annotation SuppressWarnings
+
+@enduml
+
+PlantUML version 1.2021.6(Fri May 14 15:09:51 CST 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: GBK
+Language: en
+Country: US
+--></g></svg>
