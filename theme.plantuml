@@ -1,6 +1,6 @@
 ' defaults
 skinparam shadowing false
-skinparam DefaultFontName Proxima Nova
+skinparam DefaultFontName Sarasa Term SC
 skinparam ArrowColor #00b2e2
 skinparam DefaultFontColor #dcddde
 
@@ -18,7 +18,7 @@ skinparam ComponentBorderColor #2D74BA
 skinparam ControlBorderColor #2D74BA
 skinparam BoundaryBorderColor #2D74BA
 skinparam DatabaseBorderColor #2D74BA
-'skinparam DiagramBorderColor #2D74BA
+skinparam DiagramBorderColor #2D74BA
 skinparam EntityBorderColor #2D74BA
 skinparam FileBorderColor #2D74BA
 skinparam FolderBorderColor #2D74BA
@@ -78,7 +78,7 @@ skinparam IconPublicBackgroundColor #272b34
 skinparam InterfaceBackgroundColor #272b34
 skinparam LegendBackgroundColor #272b34
 skinparam NodeBackgroundColor #272b34
-skinparam NoteBackgroundColor #272b34
+skinparam NoteBackgroundColor #53aaf5
 skinparam ObjectBackgroundColor #272b34
 skinparam PackageBackgroundColor #272b34
 skinparam ParticipantBackgroundColor #272b34
@@ -94,10 +94,10 @@ skinparam SequenceReferenceBackgroundColor #272b34
 skinparam SequenceReferenceHeaderBackgroundColor #272b34
 skinparam StackBackgroundColor #272b34
 skinparam StateBackgroundColor #272b34
-skinparam StereotypeABackgroundColor #272b34
-skinparam StereotypeCBackgroundColor #272b34
-skinparam StereotypeEBackgroundColor #272b34
-skinparam StereotypeIBackgroundColor #272b34
+skinparam StereotypeABackgroundColor #39BD65
+skinparam StereotypeCBackgroundColor #3e8de7
+skinparam StereotypeEBackgroundColor #D85F43
+skinparam StereotypeIBackgroundColor #9079E5
 skinparam StereotypeNBackgroundColor #272b34
 skinparam StorageBackgroundColor #272b34
 skinparam TitleBackgroundColor #272b34
