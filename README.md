@@ -17,5 +17,5 @@ Modified from [CF Color Theme](https://github.com/go-zen-chu/plantuml_cf_theme)
 
 - 下载PlantUML社区插件
 - 插件设置`Header`中填写
-    - `!include https://raw.githubusercontent.com/IshmaelHeathcliff/plantuml_theme/master/plantuml_theme.txt`
+    - `!include https://raw.githubusercontent.com/IshmaelHeathcliff/plantuml_theme/master/theme.plantuml`
 - 推荐与主题[OneDarkTopaz](https://github.com/IshmaelHeathcliff/OneDarkTopaz_Obsidian-css)一起使用
