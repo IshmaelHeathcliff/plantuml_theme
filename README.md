@@ -10,8 +10,7 @@ Modified from [CF Color Theme](https://github.com/go-zen-chu/plantuml_cf_theme)
 
 - 下载PlantUML扩展
 - 将repo下载到本地，并将文件夹加入扩展的`includepaths`设置中
-- ~~添加`"-config theme.planuml"`到扩展的`jarArgs`设置中~~
-    - 现版本`2.14.5`有bug，添加`"-c!include theme.plantuml"`可正常工作
+- 添加`"-c!include theme.plantuml"`到扩展的`jarArgs`设置中
 
 ## Obsidian
 
